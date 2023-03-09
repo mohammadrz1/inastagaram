@@ -1,0 +1,115 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: #eee;
+}
+.main{
+    margin: 0 auto;
+    width: 1000px;
+}
+.main-left{
+    display: inline-block;
+    margin-top: 150px;
+}
+.main-right{
+    display: inline-block;
+    width: 400px;
+    position: absolute;
+    top: 0px;
+    text-align: center;
+}
+.input-sin{
+    display: block;
+    border: 1px solid;
+    border-color: #DBDBDB;
+    margin-left: 49px;
+    width: 340px;
+    margin-top:45px ;
+}
+#or{
+    font-size: 13px;
+    margin: 20px;
+}
+.input-sin a{
+    text-decoration: none;
+    color: #00376B;
+    font-size: 12px;
+
+}
+#login-wtth-facebook{
+    font-size: 14px;
+    color: #ffff;
+    background-color:#0095F6 ;
+    border-radius:7px ;
+    padding: 7px 75px;
+    font-weight: 600;
+}
+.input-sin form input{
+    margin-bottom: 5px;
+    padding:10px 100px 10px 2px;
+    border: none;
+}
+#submit-box{
+    font-size: 14px;
+    color: #ffff;
+    background-color:#4db5f9 ;
+    border-radius:7px ;
+    padding: 7px 116px;
+    font-weight: 600;
+}
+.input-sin p{
+    color: #8E8E8E;
+    margin-left:38px;
+    margin-right:38px;
+    font-size: 12px;
+}
+#first-p-in-input-sin{
+    font-size: 17px;
+    color: #AEAEAE;
+    font-weight: 550;
+}
+.input-sin img{
+    margin-top: 45px;
+}
+.suich-login{
+    display: block;
+    border: 1px solid;
+    border-color: #DBDBDB;
+    margin-left: 49px;
+    width: 340px;
+    margin-top: 10px;
+}
+.suich-login p{
+    margin: 28px;
+    text-align: center;
+    font-size: 14px;
+    color: #262626;
+}
+.suich-login a{
+    color: #0095F6;
+    font-size: 14px;
+    text-decoration: none;
+}
+.Get-the-app img{
+    width: 125px;
+}
+#google-play{
+    width: 150px;
+    margin-right: 5px;
+}
+.Get-the-app{
+    margin-left: 45px;
+}
+#footer{
+    position: absolute;
+    bottom: 0px;
+    margin-left: 600px;
+}
+#footer *{
+    text-align: center;
+    text-decoration: none;
+    color:#8E8E8E ;
+    font-size: 12px;
+    margin-left: 10px;
+}
